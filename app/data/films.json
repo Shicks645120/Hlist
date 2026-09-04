@@ -1,0 +1,2205 @@
+[
+  {
+    "id": "nosferatu-1922",
+    "title": "Nosferatu",
+    "year": 1922,
+    "synopsis": "Un vampire gaunt débarque dans une ville allemande et y répand la peste. Expressionnisme et ombres allongées.",
+    "tags": [
+      "supernatural",
+      "vampire",
+      "atmospherique",
+      "period",
+      "classic",
+      "mild",
+      "slow-burn"
+    ],
+    "tmdbId": 653,
+    "posterPath": "/9WUpFfsUIHuiY4MwTEw46Rvf1Od.jpg"
+  },
+  {
+    "id": "psycho-1960",
+    "title": "Psychose",
+    "year": 1960,
+    "synopsis": "Marion Crane s’arrête au Bates Motel. Norman Bates et sa mère n’oublieront personne.",
+    "tags": [
+      "psychologique",
+      "human-evil",
+      "isolated",
+      "classic",
+      "intense",
+      "fast",
+      "slasher"
+    ],
+    "tmdbId": 539,
+    "posterPath": "/lzF8b44dAvXFagQnB1UZa2AF87q.jpg"
+  },
+  {
+    "id": "night-of-the-living-dead-1968",
+    "title": "La Nuit des morts-vivants",
+    "year": 1968,
+    "synopsis": "Des morts se lèvent ; un groupe se barricade dans une ferme. Fondation du zombie moderne.",
+    "tags": [
+      "zombie",
+      "survival",
+      "isolated",
+      "rural",
+      "classic",
+      "gore",
+      "intense",
+      "human-evil"
+    ],
+    "tmdbId": 10331,
+    "posterPath": "/lX5cA957idlD9Muke5kxZ9V6Rsf.jpg"
+  },
+  {
+    "id": "rosemarys-baby-1968",
+    "title": "Rosemary's Baby",
+    "year": 1968,
+    "synopsis": "À New York, une grossesse devient cauchemar : voisins trop attentionnés, paranoïa et pacte.",
+    "tags": [
+      "psychologique",
+      "supernatural",
+      "cult",
+      "demon",
+      "urban",
+      "paranoid",
+      "classic",
+      "slow-burn",
+      "mild"
+    ],
+    "tmdbId": 805,
+    "posterPath": "/yKtdS5oaHEtBUD1Gq4rdOezzWp6.jpg"
+  },
+  {
+    "id": "the-exorcist-1973",
+    "title": "L'Exorciste",
+    "year": 1973,
+    "synopsis": "Une fillette possédée, deux prêtres, et une nuit qui a redéfini l’horreur catholique.",
+    "tags": [
+      "possession",
+      "demon",
+      "supernatural",
+      "urban",
+      "classic",
+      "intense",
+      "gore",
+      "atmospherique"
+    ],
+    "tmdbId": 9552,
+    "posterPath": "/rJU6uv4ADDV0aYdiy7wyIf2nCjS.jpg"
+  },
+  {
+    "id": "the-texas-chain-saw-massacre-1974",
+    "title": "Massacre à la tronçonneuse",
+    "year": 1974,
+    "synopsis": "Sur les routes du Texas, une famille de bouchers et Leatherface. Brut, collant, fondateur.",
+    "tags": [
+      "slasher",
+      "human-evil",
+      "rural",
+      "isolated",
+      "gore",
+      "extreme",
+      "classic",
+      "fast",
+      "survival"
+    ],
+    "tmdbId": 30497,
+    "posterPath": "/u61noSAr4IGVostCNbVApRXC4FZ.jpg"
+  },
+  {
+    "id": "halloween-1978",
+    "title": "Halloween",
+    "year": 1978,
+    "synopsis": "Michael Myers revient à Haddonfield. Masque blanc, banlieue, nuit d’Halloween.",
+    "tags": [
+      "slasher",
+      "mask",
+      "suburbia",
+      "slow-burn",
+      "classic",
+      "intense",
+      "human-evil"
+    ],
+    "tmdbId": 948,
+    "posterPath": "/r1ME6ZFxmZ6vFYqt9PHepiIb1t.jpg"
+  },
+  {
+    "id": "dawn-of-the-dead-1978",
+    "title": "Zombie",
+    "year": 1978,
+    "synopsis": "L’apocalypse zombie dans un centre commercial : satire de consommation et survie.",
+    "tags": [
+      "zombie",
+      "survival",
+      "satire",
+      "gore",
+      "urban",
+      "classic",
+      "intense",
+      "comedie-horreur"
+    ],
+    "tmdbId": 923,
+    "posterPath": "/3N6VNE6IRFDfINamAFxxyI51ASe.jpg"
+  },
+  {
+    "id": "alien-1979",
+    "title": "Alien",
+    "year": 1979,
+    "synopsis": "À bord du Nostromo, quelque chose a pondu. Science-fiction et horreur en huis clos spatial.",
+    "tags": [
+      "creature",
+      "alien",
+      "monster",
+      "space",
+      "isolated",
+      "classic",
+      "intense",
+      "slow-burn",
+      "survival"
+    ],
+    "tmdbId": 348,
+    "posterPath": "/l8CES84JndFlNfBNMxdLRYaLvI6.jpg"
+  },
+  {
+    "id": "the-shining-1980",
+    "title": "Shining",
+    "year": 1980,
+    "synopsis": "L’Overlook Hotel, l’hiver, et Jack Torrance qui bascule. Couloirs, labyrinthe, « Redrum ».",
+    "tags": [
+      "psychologique",
+      "haunting",
+      "supernatural",
+      "isolated",
+      "classic",
+      "intense",
+      "slow-burn",
+      "atmospherique",
+      "human-evil"
+    ],
+    "tmdbId": 694,
+    "posterPath": "/cnniZQGtjK8kh2tsjih4GtkX6bl.jpg"
+  },
+  {
+    "id": "friday-the-13th-1980",
+    "title": "Vendredi 13",
+    "year": 1980,
+    "synopsis": "Camp Crystal Lake rouvre. Les moniteurs meurent un à un. Naissance d’une franchise.",
+    "tags": [
+      "slasher",
+      "mask",
+      "isolated",
+      "rural",
+      "gore",
+      "classic",
+      "fast",
+      "intense"
+    ],
+    "tmdbId": 4488,
+    "posterPath": "/buFpnvGDjGtmucc0DkodQsPwMjZ.jpg"
+  },
+  {
+    "id": "the-thing-1982",
+    "title": "The Thing",
+    "year": 1982,
+    "synopsis": "Antarctique, base isolée, parasite qui imite. Confiance impossible, effets légendaires.",
+    "tags": [
+      "creature",
+      "body-horror",
+      "alien",
+      "monster",
+      "isolated",
+      "paranoid",
+      "classic",
+      "gore",
+      "intense",
+      "survival"
+    ],
+    "tmdbId": 1091,
+    "posterPath": "/gajOIkrWq10MDjpHwCmIt4Yip2z.jpg"
+  },
+  {
+    "id": "poltergeist-1982",
+    "title": "Poltergeist",
+    "year": 1982,
+    "synopsis": "Une maison de banlieue avale une enfant via la télé. Spectaculaire et familial… jusqu’à un point.",
+    "tags": [
+      "haunting",
+      "supernatural",
+      "ghost",
+      "suburbia",
+      "classic",
+      "mild",
+      "fast"
+    ],
+    "tmdbId": 609,
+    "posterPath": "/7lUGWlBinGqm82KESkLr8lC1FK3.jpg"
+  },
+  {
+    "id": "a-nightmare-on-elm-street-1984",
+    "title": "Les Griffes de la nuit",
+    "year": 1984,
+    "synopsis": "Freddy Krueger tue dans les rêves. Suburbia, adolescence, et un gant à lames.",
+    "tags": [
+      "slasher",
+      "supernatural",
+      "mask",
+      "suburbia",
+      "classic",
+      "intense",
+      "fast",
+      "gore"
+    ],
+    "tmdbId": 377,
+    "posterPath": "/Aqj5iaJYbgUWaBxpLhgydrkKri5.jpg"
+  },
+  {
+    "id": "re-animator-1985",
+    "title": "Re-Animator",
+    "year": 1985,
+    "synopsis": "Sérum vert, cadavres qui bougent, humour noir lovecraftien déchaîné.",
+    "tags": [
+      "comedie-horreur",
+      "gore",
+      "body-horror",
+      "cosmic",
+      "classic",
+      "extreme",
+      "fast",
+      "urban"
+    ],
+    "tmdbId": 1694,
+    "posterPath": "/r1kH9Zrzd2MNusMnQgcXpbnxYOP.jpg"
+  },
+  {
+    "id": "evil-dead-ii-1987",
+    "title": "Evil Dead 2",
+    "year": 1987,
+    "synopsis": "Cabane en forêt, livre démoniaque, Ash et sa tronçonneuse. Horreur slapstick.",
+    "tags": [
+      "comedie-horreur",
+      "demon",
+      "supernatural",
+      "possession",
+      "isolated",
+      "rural",
+      "gore",
+      "classic",
+      "fast",
+      "extreme"
+    ],
+    "tmdbId": 765,
+    "posterPath": "/b3t9SIfnsiDZasS2jVklsCMw3ZM.jpg"
+  },
+  {
+    "id": "hellraiser-1987",
+    "title": "Hellraiser",
+    "year": 1987,
+    "synopsis": "Un puzzle ouvre les portes de l’enfer. Cénobites, désir et douleur.",
+    "tags": [
+      "supernatural",
+      "body-horror",
+      "demon",
+      "gore",
+      "urban",
+      "classic",
+      "extreme",
+      "atmospherique"
+    ],
+    "tmdbId": 9003,
+    "posterPath": "/sr5leKWWpDSWknGsZ3AOecC0P9F.jpg"
+  },
+  {
+    "id": "childs-play-1988",
+    "title": "Jeux d'enfants",
+    "year": 1988,
+    "synopsis": "Chucky, poupée possédée par un tueur. Jouet, possession et banlieue.",
+    "tags": [
+      "slasher",
+      "possession",
+      "supernatural",
+      "suburbia",
+      "comedie-horreur",
+      "classic",
+      "intense",
+      "fast"
+    ]
+  },
+  {
+    "id": "suspiria-1977",
+    "title": "Suspiria",
+    "year": 1977,
+    "synopsis": "Une académie de danse à Fribourg cache une coven. Couleurs saturées, cauchemar baroque.",
+    "tags": [
+      "witch",
+      "supernatural",
+      "cult",
+      "italy",
+      "atmospherique",
+      "classic",
+      "intense",
+      "gore",
+      "period"
+    ],
+    "tmdbId": 11906,
+    "posterPath": "/bfLwAQ27hgSabVsyHe1cT1dHNWp.jpg"
+  },
+  {
+    "id": "deep-red-1975",
+    "title": "Les Frissons de l'angoisse",
+    "year": 1975,
+    "synopsis": "Giallo argento : meurtres stylisés, énigme visuelle, piano et rouge sang.",
+    "tags": [
+      "slasher",
+      "psychologique",
+      "italy",
+      "urban",
+      "classic",
+      "gore",
+      "intense",
+      "human-evil"
+    ],
+    "tmdbId": 20126,
+    "posterPath": "/lZsz9eA4Z2uQ12mTyg3pxVO5PzD.jpg"
+  },
+  {
+    "id": "the-wicker-man-1973",
+    "title": "The Wicker Man",
+    "year": 1973,
+    "synopsis": "Un policier sur une île païenne. Folk horror britannique, chants et bûcher.",
+    "tags": [
+      "folk",
+      "cult",
+      "witch",
+      "rural",
+      "isolated",
+      "classic",
+      "atmospherique",
+      "slow-burn",
+      "mild",
+      "period"
+    ],
+    "tmdbId": 16307,
+    "posterPath": "/jIr5xcxEVjgofOfS0096t9NHMxF.jpg"
+  },
+  {
+    "id": "cannibal-holocaust-1980",
+    "title": "Cannibal Holocaust",
+    "year": 1980,
+    "synopsis": "Documentaristes disparus en Amazonie. Found footage proto, extrême et controversé.",
+    "tags": [
+      "found-footage",
+      "survival",
+      "gore",
+      "extreme",
+      "rural",
+      "isolated",
+      "classic",
+      "human-evil"
+    ],
+    "tmdbId": 8689,
+    "posterPath": "/5dOAQKl1mS6dOvGZrHWS5B6BsgO.jpg"
+  },
+  {
+    "id": "ringu-1998",
+    "title": "Ring",
+    "year": 1998,
+    "synopsis": "Une cassette maudite : tu meurs dans sept jours. J-horror qui a changé le genre.",
+    "tags": [
+      "supernatural",
+      "ghost",
+      "haunting",
+      "japan",
+      "psychologique",
+      "classic",
+      "atmospherique",
+      "slow-burn",
+      "intense"
+    ],
+    "tmdbId": 2671,
+    "posterPath": "/jydY2aLoblqrZR1bnK3pVBAxGtP.jpg"
+  },
+  {
+    "id": "audition-1999",
+    "title": "Audition",
+    "year": 1999,
+    "synopsis": "Un veuf organise un casting pour trouver une femme. Le dernier acte ne pardonne pas.",
+    "tags": [
+      "psychologique",
+      "human-evil",
+      "japan",
+      "gore",
+      "extreme",
+      "slow-burn",
+      "classic",
+      "urban",
+      "tragique"
+    ],
+    "tmdbId": 29545,
+    "posterPath": "/8Bnqect4lPvc4o2cONsrFuoSzrX.jpg"
+  },
+  {
+    "id": "the-blair-witch-project-1999",
+    "title": "Le Projet Blair Witch",
+    "year": 1999,
+    "synopsis": "Trois étudiants filmant une légende en forêt. Found footage qui a paniqué le box-office.",
+    "tags": [
+      "found-footage",
+      "folk",
+      "witch",
+      "rural",
+      "isolated",
+      "classic",
+      "atmospherique",
+      "mild",
+      "slow-burn"
+    ],
+    "tmdbId": 2667,
+    "posterPath": "/uSx9GZIdrYv8MQtDq6eaT0kYfTY.jpg"
+  },
+  {
+    "id": "american-psycho-2000",
+    "title": "American Psycho",
+    "year": 2000,
+    "synopsis": "Patrick Bateman, yuppie et tueur. Satire glaciale des années 80.",
+    "tags": [
+      "psychologique",
+      "human-evil",
+      "satire",
+      "urban",
+      "classic",
+      "intense",
+      "gore",
+      "comedie-horreur"
+    ],
+    "tmdbId": 1359,
+    "posterPath": "/2DWqsx0vafGcfytSIwhtL5nI1uV.jpg"
+  },
+  {
+    "id": "the-others-2001",
+    "title": "Les Autres",
+    "year": 2001,
+    "synopsis": "Maison brumeuse, enfants photosensibles, présence inexplicable. Twist élégant.",
+    "tags": [
+      "haunting",
+      "ghost",
+      "supernatural",
+      "isolated",
+      "period",
+      "atmospherique",
+      "slow-burn",
+      "mild",
+      "classic"
+    ],
+    "tmdbId": 1933,
+    "posterPath": "/avGVh36bjnw88tDFV41N6Hodybl.jpg"
+  },
+  {
+    "id": "28-days-later-2002",
+    "title": "28 jours plus tard",
+    "year": 2002,
+    "synopsis": "Londres vide, rage virale, zombies rapides. Fin du monde en DV grainé.",
+    "tags": [
+      "zombie",
+      "survival",
+      "urban",
+      "isolated",
+      "intense",
+      "fast",
+      "modern",
+      "gore",
+      "human-evil"
+    ],
+    "tmdbId": 170,
+    "posterPath": "/y0u77LC6C0UvhiWe4LiI2KulHN9.jpg"
+  },
+  {
+    "id": "saw-2004",
+    "title": "Saw",
+    "year": 2004,
+    "synopsis": "Deux hommes enchaînés, un puzzle sadique. Naissance du torture porn grand public.",
+    "tags": [
+      "psychologique",
+      "human-evil",
+      "isolated",
+      "gore",
+      "extreme",
+      "fast",
+      "modern",
+      "urban"
+    ],
+    "tmdbId": 176,
+    "posterPath": "/3fhUaMnlY72GGuBlzEeKA4brZAb.jpg"
+  },
+  {
+    "id": "the-descent-2005",
+    "title": "The Descent",
+    "year": 2005,
+    "synopsis": "Spéléologie entre amies, puis quelque chose dans le noir. Claustrophobie pure.",
+    "tags": [
+      "creature",
+      "monster",
+      "survival",
+      "isolated",
+      "rural",
+      "gore",
+      "intense",
+      "modern",
+      "fast"
+    ],
+    "tmdbId": 9392,
+    "posterPath": "/hUZbZj7yb16tokai802DmawqUxE.jpg"
+  },
+  {
+    "id": "paranormal-activity-2007",
+    "title": "Paranormal Activity",
+    "year": 2007,
+    "synopsis": "Caméra fixe dans une maison de banlieue. Bruits de nuit, portes, démone.",
+    "tags": [
+      "found-footage",
+      "haunting",
+      "demon",
+      "supernatural",
+      "suburbia",
+      "modern",
+      "mild",
+      "slow-burn",
+      "atmospherique"
+    ],
+    "tmdbId": 23827,
+    "posterPath": "/1Kxhdm6up44BzZoVGAGuD5zYxYY.jpg"
+  },
+  {
+    "id": "let-the-right-one-in-2008",
+    "title": "Morse",
+    "year": 2008,
+    "synopsis": "Hiver suédois, amitié entre un garçon harcelé et une vampire. Tendresse et sang froid.",
+    "tags": [
+      "vampire",
+      "supernatural",
+      "tragique",
+      "atmospherique",
+      "slow-burn",
+      "mild",
+      "modern",
+      "suburbia"
+    ],
+    "tmdbId": 13310,
+    "posterPath": "/riaynrmURRDKwR1a7Bkugtprd4r.jpg"
+  },
+  {
+    "id": "martyrs-2008",
+    "title": "Martyrs",
+    "year": 2008,
+    "synopsis": "Vengeance, captivité et transcendance par la souffrance. Extrême français inoubliable.",
+    "tags": [
+      "psychologique",
+      "human-evil",
+      "cult",
+      "gore",
+      "extreme",
+      "modern",
+      "isolated",
+      "tragique"
+    ],
+    "tmdbId": 9539,
+    "posterPath": "/do92C3aiADF8SHC7gkRI65z6o9S.jpg"
+  },
+  {
+    "id": "rec-2007",
+    "title": "REC",
+    "year": 2007,
+    "synopsis": "Reportage bloqué dans un immeuble quarantaine. Found footage espagnol frénétique.",
+    "tags": [
+      "found-footage",
+      "zombie",
+      "possession",
+      "urban",
+      "isolated",
+      "gore",
+      "intense",
+      "fast",
+      "modern"
+    ],
+    "tmdbId": 8329,
+    "posterPath": "/cA4EJPDUCcbpI6gteKYGZlHRZl5.jpg"
+  },
+  {
+    "id": "insidious-2010",
+    "title": "Insidious",
+    "year": 2010,
+    "synopsis": "Un enfant dans le coma astral. L’« Further », démons et jump scares millésimés.",
+    "tags": [
+      "haunting",
+      "demon",
+      "supernatural",
+      "suburbia",
+      "modern",
+      "intense",
+      "fast",
+      "possession"
+    ],
+    "tmdbId": 49018,
+    "posterPath": "/mmyqYYJTMtCBlUNr0JAp5R59X8H.jpg"
+  },
+  {
+    "id": "the-conjuring-2013",
+    "title": "Conjuring : Les Dossiers Warren",
+    "year": 2013,
+    "synopsis": "Les Warren face à une ferme hantée. Horreur « basée sur une histoire vraie », efficace.",
+    "tags": [
+      "haunting",
+      "demon",
+      "supernatural",
+      "rural",
+      "period",
+      "modern",
+      "intense",
+      "atmospherique",
+      "possession"
+    ],
+    "tmdbId": 138843,
+    "posterPath": "/vOnTvcSsxdJWL9xgauljHHmFSN4.jpg"
+  },
+  {
+    "id": "it-follows-2014",
+    "title": "It Follows",
+    "year": 2014,
+    "synopsis": "Une malédiction sexuelle qui marche vers toi, toujours. Suburbia mélancolique.",
+    "tags": [
+      "supernatural",
+      "psychologique",
+      "suburbia",
+      "atmospherique",
+      "slow-burn",
+      "modern",
+      "mild",
+      "tragique"
+    ],
+    "tmdbId": 270303,
+    "posterPath": "/jh8bol1N8COAGSj4ksrcUNo8xxc.jpg"
+  },
+  {
+    "id": "the-witch-2015",
+    "title": "The Witch",
+    "year": 2015,
+    "synopsis": "Famille puritaine en Nouvelle-Angleterre, forêt et bouc Black Phillip. Folk glacial.",
+    "tags": [
+      "folk",
+      "witch",
+      "supernatural",
+      "rural",
+      "isolated",
+      "period",
+      "atmospherique",
+      "slow-burn",
+      "modern",
+      "mild",
+      "cult"
+    ],
+    "tmdbId": 347413,
+    "posterPath": "/g7gCZzJm45frEK8bWMJ8Skxn93c.jpg"
+  },
+  {
+    "id": "get-out-2017",
+    "title": "Get Out",
+    "year": 2017,
+    "synopsis": "Week-end chez les beaux-parents blancs. Horreur sociale, hypnose et sunken place.",
+    "tags": [
+      "psychologique",
+      "human-evil",
+      "satire",
+      "suburbia",
+      "modern",
+      "intense",
+      "paranoid",
+      "cult"
+    ],
+    "tmdbId": 419430,
+    "posterPath": "/8WzjAhgc4HvpN3Y6LLCc6AbpIhF.jpg"
+  },
+  {
+    "id": "hereditary-2018",
+    "title": "Hérédité",
+    "year": 2018,
+    "synopsis": "Deuil, miniatures, et un culte qui attend son roi. Tragédie familiale infernale.",
+    "tags": [
+      "psychologique",
+      "cult",
+      "demon",
+      "supernatural",
+      "suburbia",
+      "tragique",
+      "modern",
+      "intense",
+      "slow-burn",
+      "atmospherique",
+      "gore"
+    ],
+    "tmdbId": 493922,
+    "posterPath": "/5Bz0u7xEyOUnGi4ov3rZKqKYCuH.jpg"
+  },
+  {
+    "id": "midsommar-2019",
+    "title": "Midsommar",
+    "year": 2019,
+    "synopsis": "Festival d’été en Suède, fleurs et rituels. Folk horror en plein jour.",
+    "tags": [
+      "folk",
+      "cult",
+      "rural",
+      "isolated",
+      "tragique",
+      "modern",
+      "extreme",
+      "slow-burn",
+      "gore",
+      "atmospherique"
+    ],
+    "tmdbId": 530385,
+    "posterPath": "/17pvY55Zr60niVovNvgt72mwvES.jpg"
+  },
+  {
+    "id": "the-invisible-man-2020",
+    "title": "Invisible Man",
+    "year": 2020,
+    "synopsis": "Une femme fuit un ex manipulateur… qui n’est peut-être plus visible. Horreur du contrôle.",
+    "tags": [
+      "psychologique",
+      "human-evil",
+      "paranoid",
+      "urban",
+      "modern",
+      "intense",
+      "fast",
+      "survival"
+    ],
+    "tmdbId": 570670,
+    "posterPath": "/5FFtYEXXnQ3jEN4eFywXxb17PFS.jpg"
+  },
+  {
+    "id": "obsession-2026",
+    "title": "Obsession",
+    "year": 2026,
+    "synopsis": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsession la plus totale. Faites attention à ce que vous souhaitez !",
+    "tags": [
+      "supernatural",
+      "possession",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 1339713,
+    "posterPath": "/mDCR1frpUvGfIKksuM440VLb7X9.jpg"
+  },
+  {
+    "id": "colony-2026",
+    "title": "Colony",
+    "year": 2026,
+    "synopsis": "Se-jeong, professeure de biotechnologie, assiste à une conférence sur le sujet, mais la situation dégénère rapidement lorsqu'un virus à mutation fulgurante se propage. Alors que l'épidémie s'étend et que les personnes infectées commencent à se transformer, les autorités bouclent l'ensemble du complexe, piégeant les survivants face à une menace grandissante…",
+    "tags": [
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 1375646,
+    "posterPath": "/1CuYfdSqpIjsWIaCftQKBCjNlG.jpg"
+  },
+  {
+    "id": "backrooms-2026",
+    "title": "Backrooms",
+    "year": 2026,
+    "synopsis": "Une étrange porte apparaît dans le sous-sol d'un magasin de meubles.",
+    "tags": [
+      "monster",
+      "found-footage",
+      "psychologique",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 1083381,
+    "posterPath": "/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg"
+  },
+  {
+    "id": "deep-water-2026",
+    "title": "Deep Water",
+    "year": 2026,
+    "synopsis": "Alors qu'il survole les Îles Mariannes, en mer des Philippines, le vol 140 de la compagnie Northeastern Airlines, qui devait relier Los Angeles à Shanghai avec 257 passagers à bord, connait une avarie dramatique quand un incendie se déclare dans la soute. Après un amerrissage d'urgence, les rescapés découvrent qu'ils dérivent dans des eaux infestées de requins...",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1127384,
+    "posterPath": "/MYnja0ditOENAOWB8R7dW19wO9.jpg"
+  },
+  {
+    "id": "le-dernier-refuge-2026",
+    "title": "Le Dernier Refuge",
+    "year": 2026,
+    "synopsis": "Des forces inexplicables enferment une famille de quatre personnes à l'intérieur de leur maison indéfiniment. Alors que les luxes modernes et les nécessités vitales commencent à manquer, la famille doit apprendre à être ingénieuse pour survivre et déjouer celui - ou ce qui - les maintient prisonniers…",
+    "tags": [
+      "monster",
+      "isolated",
+      "modern"
+    ],
+    "tmdbId": 1284041,
+    "posterPath": "/loDdQQZm3mPG9FFQpD2bdC0I2wy.jpg"
+  },
+  {
+    "id": "evil-dead-burn-2026",
+    "title": "Evil Dead Burn",
+    "year": 2026,
+    "synopsis": "Après l’enterrement de son mari, Alice se rend dans la maison isolée de sa belle-famille pour partager un dernier repas à sa mémoire. Mais la réunion familiale bascule dans l’horreur lorsque ses proches se transforment, l’un après l’autre, en créatures démoniaques. Confrontée à cet enfer, Alice découvre que les vœux prononcés autrefois continuent de la lier à son mari… bien au-delà de la mort.",
+    "tags": [
+      "supernatural",
+      "possession",
+      "demon",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 1212763,
+    "posterPath": "/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg"
+  },
+  {
+    "id": "kraken-2026",
+    "title": "Kraken",
+    "year": 2026,
+    "synopsis": "Johanne, biologiste marine, mène des recherches dans une ferme piscicole à Vangsnes, un petit village situé au bord de l'un des fjords les plus profonds de Norvège, suite à une série de morts mystérieuses.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1110034,
+    "posterPath": "/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg"
+  },
+  {
+    "id": "leviticus-2026",
+    "title": "Leviticus",
+    "year": 2026,
+    "synopsis": "Deux adolescents maudits par les étoiles doivent échapper à une entité violente qui prend la forme de la personne qu’ils désirent le plus — l’un l’autre.",
+    "tags": [
+      "supernatural",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 1564614,
+    "posterPath": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg"
+  },
+  {
+    "id": "la-bouche-du-diable-2026",
+    "title": "La Bouche du Diable",
+    "year": 2026,
+    "synopsis": "En Thaïlande, cinq amis explorent les grottes de la Bouche du Diable pour une dernière aventure avant de se lancer dans la vie d'adultes. Mais ils découvrent rapidement qu'une chose se met à les traquer sous l'eau… une chose rapide, silencieuse et mortelle. Dans l'obscurité étouffante, la confiance se volatilise, la panique se répand, et chaque erreur se transforme en une lutte pour la survie.",
+    "tags": [
+      "survival",
+      "creature",
+      "modern"
+    ],
+    "tmdbId": 1481343,
+    "posterPath": "/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg"
+  },
+  {
+    "id": "le-reveil-de-la-momie-2026",
+    "title": "Le Réveil de la Momie",
+    "year": 2026,
+    "synopsis": "Une jeune fille disparue dans le désert égyptien réapparaît mystérieusement huit ans plus tard. Mais les retrouvailles tournent vite au cauchemar. Alors que son comportement devient de plus en plus inquiétant, sa famille se lance dans une course contre la montre pour comprendre l’origine du mal. Ce qu’ils vont découvrir dépasse tout ce qu’ils imaginaient.",
+    "tags": [
+      "monster",
+      "supernatural",
+      "possession",
+      "demon",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 1304313,
+    "posterPath": "/f77yGBGOjainowvlGHU70CCQrjV.jpg"
+  },
+  {
+    "id": "hokum-2026",
+    "title": "Hokum",
+    "year": 2026,
+    "synopsis": "Peinant à terminer son dernier roman, l'Américain Ohm Bauman décide de se rendre en Irlande afin de s'acquitter d'une promesse longtemps différée: répandre les cendres de ses parents à proximité de l'hôtel où le couple avait passé son voyage de noces. Peu après son inscription dans ce même établissement, l'écrivain apprend de la bouche de la barmaid Fiona que la suite nuptiale, interdite d'accès, serait hantée par une sorcière. Quand la jeune employée disparaît mystérieusement, et que des soupçons pèsent sur un vieil homme au passé tragique vivant dans le bois voisin, Bauman ouvre sa propre enquête.",
+    "tags": [
+      "witch",
+      "supernatural",
+      "folk",
+      "modern"
+    ],
+    "tmdbId": 1430077,
+    "posterPath": "/2sq0GooVOtvGAQRyuYsSg9GA8Fy.jpg"
+  },
+  {
+    "id": "insidious-the-red-door-2023",
+    "title": "Insidious : The Red Door",
+    "year": 2023,
+    "synopsis": "Afin de se débarrasser définitivement de leurs démons, Josh Lambert et son fils Dalton, à présent étudiant, doivent plonger encore plus profondément dans le Lointain pour affronter le sombre passé de leur famille et une multitude d’esprits toujours plus inquiétants qui se cachent derrière la Porte Rouge.",
+    "tags": [
+      "supernatural",
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 614479,
+    "posterPath": "/4Jkz5lqTTCMLVM2MlL4cQZvO73u.jpg"
+  },
+  {
+    "id": "insidious-chapitre-3-2015",
+    "title": "Insidious : Chapitre 3",
+    "year": 2015,
+    "synopsis": "Parce qu'elle a l'impression que sa mère défunte cherche à entrer en contact avec elle, la jeune Quinn Brenner se tourne vers Elise, un médium qui possède un véritable don mais refuse de l'utiliser depuis la tragédie qu'elle a vécue autrefois. Lorsque Quinn est attaquée par une entité malveillante, Sean, le père de la jeune fille, supplie Elise de les aider. Secondée par deux parapsychologues, Tucker et Specs, Elise accepte alors de tenter d'entrer en contact avec les morts. Forcée de s'aventurer dans les tréfonds de l'au-delà pour protéger Quinn, Elise va affronter le pire ennemi qu'elle ait jamais rencontré : un démon dévoreur d'âmes…",
+    "tags": [
+      "supernatural",
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 280092,
+    "posterPath": "/rkanPmOWSTztjXY2JTvPSuNuB5o.jpg"
+  },
+  {
+    "id": "insidious-la-derniere-cle-2018",
+    "title": "Insidious : La Dernière Clé",
+    "year": 2018,
+    "synopsis": "Le docteur Élise Rainier, la brillante parapsychologue, va affronter le cas le plus effrayant et le plus personnel de son histoire : elle doit intervenir dans sa propre maison…",
+    "tags": [
+      "supernatural",
+      "haunting",
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 406563,
+    "posterPath": "/cIqtYK14FviWJWBGIGyTeIgfgsX.jpg"
+  },
+  {
+    "id": "sinners-2025",
+    "title": "Sinners",
+    "year": 2025,
+    "synopsis": "Alors qu’ils cherchent à s’affranchir d’un lourd passé, deux frères jumeaux reviennent dans leur ville natale pour repartir à zéro. Mais ils comprennent qu’une puissance maléfique bien plus redoutable guette leur retour avec impatience.",
+    "tags": [
+      "vampire",
+      "modern"
+    ],
+    "tmdbId": 1233413,
+    "posterPath": "/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg"
+  },
+  {
+    "id": "the-substance-2024",
+    "title": "The Substance",
+    "year": 2024,
+    "synopsis": "Elisabeth Sparkle, vedette d’une émission d’aérobic, est licenciée le jour de ses 50 ans à cause de son âge. Le moral au plus bas, elle reçoit une proposition inattendue, celle d'un mystérieux laboratoire lui proposant une « substance » miraculeuse : si elle se l’injecte, elle deviendra la meilleure version d’elle-même, plus jeune, plus belle, plus parfaite grâce à une modification de son ADN…",
+    "tags": [
+      "satire",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 933260,
+    "posterPath": "/5Jfj6LqxOludXg454Vxef8dCJln.jpg"
+  },
+  {
+    "id": "insidious-chapitre-2-2013",
+    "title": "Insidious : Chapitre 2",
+    "year": 2013,
+    "synopsis": "Après tout ce qu’elle a affronté, la famille Lambert s’efforce de reprendre une vie normale, mais le monde des esprits semble en avoir décidé autrement.  Josh et Renai vont tenter de découvrir le secret qui les relie au terrifiant monde des esprits...",
+    "tags": [
+      "supernatural",
+      "haunting",
+      "possession",
+      "demon",
+      "ghost",
+      "modern"
+    ],
+    "tmdbId": 91586,
+    "posterPath": "/hOlxmQeHtsbOcVZOdiyg3g7smaf.jpg"
+  },
+  {
+    "id": "wedding-nightmare-deuxieme-partie-2026",
+    "title": "Wedding Nightmare : Deuxième partie",
+    "year": 2026,
+    "synopsis": "Peu après avoir échappé à l'attaque sans merci de la famille Le Domas, Grace découvre qu'elle vient d'atteindre un nouveau niveau dans ce jeu cauchemardesque, et cette fois, elle aura à ses côtés sa sœur dont elle s'était éloignée, Faith. Grace n’a qu'une seule chance de survivre, de protéger sa sœur et de s’emparer du Trône du Conseil qui dirige le monde. Traquée par quatre familles rivales prêtes à tout pour le pouvoir, elle sait que l’issue de cette chasse à l'homme déterminera qui régnera sur tout.",
+    "tags": [
+      "gore",
+      "modern"
+    ],
+    "tmdbId": 1266127,
+    "posterPath": "/tARTqozLyHGjdKQWL734odssfpL.jpg"
+  },
+  {
+    "id": "conjuring-lheure-du-jugement-2025",
+    "title": "Conjuring : L'Heure du jugement",
+    "year": 2025,
+    "synopsis": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
+    "tags": [
+      "supernatural",
+      "possession",
+      "haunting",
+      "ghost",
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 1038392,
+    "posterPath": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg"
+  },
+  {
+    "id": "scream-7-2026",
+    "title": "Scream 7",
+    "year": 2026,
+    "synopsis": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
+    "tags": [
+      "mask",
+      "slasher",
+      "modern"
+    ],
+    "tmdbId": 1159559,
+    "posterPath": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg"
+  },
+  {
+    "id": "frankenstein-2025",
+    "title": "Frankenstein",
+    "year": 2025,
+    "synopsis": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
+    "tags": [
+      "monster",
+      "supernatural",
+      "modern"
+    ],
+    "tmdbId": 1062722,
+    "posterPath": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg"
+  },
+  {
+    "id": "28-ans-plus-tard-2025",
+    "title": "28 Ans plus tard",
+    "year": 2025,
+    "synopsis": "Cela fait près de trente ans que le Virus de la Fureur s’est échappé d’un laboratoire d’armement biologique. Alors qu’un confinement très strict a été mis en place, certains ont trouvé le moyen de survivre parmi les personnes infectées. C’est ainsi qu’une communauté de rescapés s’est réfugiée sur une petite île seulement reliée au continent par une route, placée sous haute protection. Lorsque l’un des habitants de l’île est envoyé en mission sur le continent, il découvre que non seulement les infectés ont muté, mais que d’autres survivants aussi, dans un contexte à la fois mystérieux et terrifiant…",
+    "tags": [
+      "cult",
+      "survival",
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 1100988,
+    "posterPath": "/3ACUg2j2ZsgrwT1RnaBmni8mOuI.jpg"
+  },
+  {
+    "id": "evanouis-2025",
+    "title": "Évanouis",
+    "year": 2025,
+    "synopsis": "En plein cœur de la nuit, les 17 enfants d'une classe de l'école primaire de Maybrook aux États-Unis se réveillent à une heure précise et s'enfuient de leurs foyers. Mus par une force inébranlable, ils sont partis à la course et personne ne sait où ils s'en sont allés. Tous ont disparu, sauf un. Alex est le seul élève restant. Paniqués et inquiets, les parents soupçonnent l'enseignante Justine Gandy d'avoir manigancé quelque chose.",
+    "tags": [
+      "witch",
+      "folk",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 1078605,
+    "posterPath": "/3eRJV97oZDY6LORwPNdWlfdPLnd.jpg"
+  },
+  {
+    "id": "destination-finale-bloodlines-2025",
+    "title": "Destination Finale : Bloodlines",
+    "year": 2025,
+    "synopsis": "Hantée par un cauchemar terrifiant qui revient sans cesse, Stefanie, étudiante à l’université, rentre chez elle pour retrouver la trace de la seule personne susceptible d’enrayer ce cycle infernal et de sauver ses proches du sort funeste qui les attend…",
+    "tags": [
+      "gore",
+      "modern"
+    ],
+    "tmdbId": 574475,
+    "posterPath": "/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg"
+  },
+  {
+    "id": "send-help-2026",
+    "title": "Send Help",
+    "year": 2026,
+    "synopsis": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
+    "tags": [
+      "survival",
+      "modern"
+    ],
+    "tmdbId": 1198994,
+    "posterPath": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg"
+  },
+  {
+    "id": "world-war-z-2013",
+    "title": "World War Z",
+    "year": 2013,
+    "synopsis": "Gerry Lane se lance dans une course contre la montre pour aider le monde à surmonter ses divisions et faire face à l'apocalypse. Dans tous les pays, par tous les moyens, chacun devra se battre car l'humanité n'aura plus qu'un seul espoir de survie : La guerre.",
+    "tags": [
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 72190,
+    "posterPath": "/xqk3gTrNODmH90QEgeBgEIHN1Fu.jpg"
+  },
+  {
+    "id": "evil-dead-rise-2023",
+    "title": "Evil Dead Rise",
+    "year": 2023,
+    "synopsis": "Alors que Beth n’a pas vu sa grande sœur Ellie depuis longtemps, elle vient lui rendre visite à Los Angeles où elle élève, seule, ses trois enfants. Mais leurs retrouvailles tournent au cauchemar, quand ils découvrent un mystérieux livre dans le sous-sol de l’immeuble, dont la lecture libère des démons qui prennent possession des vivants...",
+    "tags": [
+      "supernatural",
+      "gore",
+      "demon",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 713704,
+    "posterPath": "/n9xIr60snZnhlzvUaFcmyAhKNgk.jpg"
+  },
+  {
+    "id": "conjuring-2-le-cas-enfield-2016",
+    "title": "Conjuring 2 : Le Cas Enfield",
+    "year": 2016,
+    "synopsis": "Ce thriller paranormal nous présente une nouvelle fois un cas réel tiré des archives des célèbres démonologues Ed et Lorraine Warren. Dans le cadre de l'une de leurs enquêtes les plus terrifiantes, ils se rendent dans le nord de Londres pour aider une mère célibataire qui élève ses quatre enfants dans une maison hantée par des esprits maléfiques.",
+    "tags": [
+      "demon",
+      "ghost",
+      "modern"
+    ],
+    "tmdbId": 259693,
+    "posterPath": "/oHQRX1zrBH1Li5JNbNJSUi0h22d.jpg"
+  },
+  {
+    "id": "dernier-train-pour-busan-2016",
+    "title": "Dernier train pour Busan",
+    "year": 2016,
+    "synopsis": "Tandis qu'un virus qui transforme tous les êtres vivants en zombies ravage la Corée du Sud, un père et sa fille tentent de survivre dans le dernier train pour Busan, l'unique ville à n'avoir pas encore été contaminée.",
+    "tags": [
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 396535,
+    "posterPath": "/9FiRluXOwGJZhb1BPSvJYO7SB7y.jpg"
+  },
+  {
+    "id": "five-nights-at-freddys-2-2025",
+    "title": "Five Nights at Freddy's 2",
+    "year": 2025,
+    "synopsis": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
+    "tags": [
+      "slasher",
+      "modern"
+    ],
+    "tmdbId": 1228246,
+    "posterPath": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg"
+  },
+  {
+    "id": "les-dents-de-la-mer-1975",
+    "title": "Les Dents de la mer",
+    "year": 1975,
+    "synopsis": "À quelques jours du début de la saison estivale, les habitants de la petite station balnéaire d'Amity sont mis en émoi par la découverte sur le littoral du corps atrocement mutilé d'une jeune vacancière. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a été victime d'un requin. Il décide alors d'interdire l'accès aux plages mais se heurte à l'hostilité du maire uniquement intéressé par l'afflux des touristes. Pendant ce temps, le requin continue à semer la terreur le long des côtes et à dévorer les baigneurs…",
+    "tags": [
+      "creature",
+      "classic"
+    ],
+    "tmdbId": 578,
+    "posterPath": "/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg"
+  },
+  {
+    "id": "passenger-2026",
+    "title": "Passenger",
+    "year": 2026,
+    "synopsis": "Après s’être arrêté sur la scène d’un terrible accident sur une autoroute isolée, un jeune couple se rend compte qu’ils ne sont pas seuls. Une présence démoniaque connue sous le nom de Passager s’est jointe au voyage, transformant leur virée en van en cauchemar dont ils ne peuvent pas fuir.",
+    "tags": [
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 1368314,
+    "posterPath": "/8MNddEYoreFL2S3n257uwsYiKf6.jpg"
+  },
+  {
+    "id": "a-serbian-film-2010",
+    "title": "A Serbian Film",
+    "year": 2010,
+    "synopsis": "Milos, un acteur porno à la retraite, tente de survivre avec sa famille. Jusqu’au jour où une ancienne collègue lui présente Vukmir, figure influente de l'industrie pornographique, qui va lui faire une offre qu’il ne pourra refuser…",
+    "tags": [
+      "mask",
+      "gore",
+      "modern"
+    ],
+    "tmdbId": 73861,
+    "posterPath": "/qT312t40YmlOSsOXOoOLDCvRbPx.jpg"
+  },
+  {
+    "id": "sans-un-bruit-2018",
+    "title": "Sans un bruit",
+    "year": 2018,
+    "synopsis": "Une famille tente de survivre sous la menace de mystérieuses créatures qui attaquent au moindre bruit. S’ils vous entendent, il est déjà trop tard.",
+    "tags": [
+      "creature",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 447332,
+    "posterPath": "/xlJCSHnR7sbaibX3OY97vEmsjxt.jpg"
+  },
+  {
+    "id": "black-swan-2010",
+    "title": "Black Swan",
+    "year": 2010,
+    "synopsis": "Rivalités dans la troupe du New York City Ballet. Nina est prête à tout pour obtenir le rôle principal du Lac des cygnes que dirige l’ambigu Thomas. Mais elle se trouve bientôt confrontée à la belle et sensuelle nouvelle recrue, Lily…",
+    "tags": [
+      "paranoid",
+      "body-horror",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 44214,
+    "posterPath": "/PgK9d0vegvPCx92b7c15sk4x8h.jpg"
+  },
+  {
+    "id": "alien-romulus-2024",
+    "title": "Alien : Romulus",
+    "year": 2024,
+    "synopsis": "Quelques années après les événements sur le vaisseau Nostromo, un groupe de jeunes colons de l'espace travaillent en tant que mineurs dans l'espoir de rejoindre une autre planète verdoyante, Yvaga. Un des membres propose d'utiliser une station spatiale abandonnée en orbite autour de leur planète actuelle afin de se rendre sur Yvaga. Cependant, ils se retrouvent face-à-face avec la forme de vie la plus terrifiante de l'univers alors qu'ils fouillent les profondeurs de cette station.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 945961,
+    "posterPath": "/xmDypImhT0OOloQIj3JLslUrBw8.jpg"
+  },
+  {
+    "id": "conjuring-sous-lemprise-du-diable-2021",
+    "title": "Conjuring : Sous l'emprise du Diable",
+    "year": 2021,
+    "synopsis": "Une histoire de meurtre bouleverse Ed et Lorraine Warren. L'âme d'un jeune garçon est menacée et pour la première fois aux États-Unis, un accusé de meurtre plaide la possession démoniaque comme défense.",
+    "tags": [
+      "supernatural",
+      "possession",
+      "modern"
+    ],
+    "tmdbId": 423108,
+    "posterPath": "/k0JaMRifwHCk9b1T12koZKqXnnS.jpg"
+  },
+  {
+    "id": "28-ans-plus-tard-le-temple-des-morts-2026",
+    "title": "28 Ans plus tard : Le Temple des morts",
+    "year": 2026,
+    "synopsis": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
+    "tags": [
+      "cult",
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 1272837,
+    "posterPath": "/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg"
+  },
+  {
+    "id": "en-eaux-troubles-2018",
+    "title": "En eaux troubles",
+    "year": 2018,
+    "synopsis": "Missionné par un programme international d'observation de la vie sous-marine, un submersible a été attaqué par une créature gigantesque qu'on croyait disparue. Sérieusement endommagé, il gît désormais dans une fosse, au plus profond de l'océan Pacifique, où son équipage est pris au piège. Il n'y a plus de temps à perdre : Jonas Taylor, sauveteur-plongeur expert des fonds marins, est engagé par un océanographe chinois particulièrement visionnaire, contre l'avis de sa fille Suyin.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 345940,
+    "posterPath": "/sKmxFCYGSync2zH94Aukzcp8yYA.jpg"
+  },
+  {
+    "id": "lassocie-du-diable-1997",
+    "title": "L'Associé du diable",
+    "year": 1997,
+    "synopsis": "Kevin Lomax, jeune et brillant avocat, est approché par l'un des plus puissants cabinets New-Yorkais dirigé par l'étrange John Milton. Assoiffé de pouvoir et d'argent, poussé par une ambition dévorante, prêt à tout pour réussir, il accepte l'offre et gravit les marches de la réussite de façon fulgurante. Mais l'ambition a un prix : sans le savoir, Kevin vient de vendre son âme au diable...",
+    "tags": [
+      "classic",
+      "supernatural"
+    ],
+    "tmdbId": 1813,
+    "posterPath": "/dwRco8u0IrVfiWzSH8HLUjgRdNR.jpg"
+  },
+  {
+    "id": "dracula-2025",
+    "title": "Dracula",
+    "year": 2025,
+    "synopsis": "Au XVe siècle, le Prince Vladimir renie Dieu après la perte brutale et cruelle de son épouse. Il hérite alors d’une malédiction : la vie éternelle. Il devient Dracula. Condamné à errer à travers les siècles, il n’aura plus qu’un seul espoir : celui de retrouver son amour perdu.",
+    "tags": [
+      "vampire",
+      "modern"
+    ],
+    "tmdbId": 1246049,
+    "posterPath": "/hCKkybW6EfSZoOW3xia9ZsQwaUd.jpg"
+  },
+  {
+    "id": "scream-vi-2023",
+    "title": "Scream VI",
+    "year": 2023,
+    "synopsis": "Après avoir frappé à trois reprises à Woodsboro, après avoir terrorisé le campus de Windsor et les studios d’Hollywood, Ghostface a décidé de sévir dans Big Apple, mais dans une ville aussi grande que New York personne ne vous entendra crier…",
+    "tags": [
+      "mask",
+      "slasher",
+      "modern"
+    ],
+    "tmdbId": 934433,
+    "posterPath": "/dNOUtzNilhoOl1P4yLzsYVKzZZL.jpg"
+  },
+  {
+    "id": "constantine-2005",
+    "title": "Constantine",
+    "year": 2005,
+    "synopsis": "John Constantine, extralucide anticonformiste, qui a littéralement fait un aller-retour aux enfers, doit aider Katelin Dodson, une policière incrédule, à lever le voile sur le suicide mystérieux de sa sœur jumelle. Cette enquête leur fera découvrir l'univers d'anges et de démons qui hantent les sous-sols de Los Angeles d'aujourd'hui.",
+    "tags": [
+      "supernatural",
+      "possession",
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 561,
+    "posterPath": "/7jQjFsHX1lHFqrVZB8kCu6dOpGs.jpg"
+  },
+  {
+    "id": "the-rocky-horror-picture-show-1975",
+    "title": "The Rocky Horror Picture Show",
+    "year": 1975,
+    "synopsis": "Une nuit d'orage, la voiture de Janet et Brad, un couple coincé qui vient de se fiancer, tombe en panne. Obligés de se réfugier dans un mystérieux château, ils vont faire la rencontre de ses occupants pour le moins bizarres, qui se livrent à de bien étranges expériences.",
+    "tags": [
+      "classic",
+      "supernatural"
+    ],
+    "tmdbId": 36685,
+    "posterPath": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg"
+  },
+  {
+    "id": "pirouette-fatale-2026",
+    "title": "Pirouette fatale",
+    "year": 2026,
+    "synopsis": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1084187,
+    "posterPath": "/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg"
+  },
+  {
+    "id": "the-bride-2026",
+    "title": "The Bride!",
+    "year": 2026,
+    "synopsis": "Un Frankenstein esseulé se rend dans le Chicago des années 30 afin de convaincre la brillante scientifique Dr Euphronious de lui concevoir une compagne. Les deux ressuscitent une jeune femme assassinée et La fiancée voit le jour. Et ce qui suit dépasse toutes leurs attentes : Meurtre ! Possession ! Un mouvement culturel déchaîné et radical ! Et des amants rebelles dans une romance sauvage et explosive !",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1159831,
+    "posterPath": "/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg"
+  },
+  {
+    "id": "nosferatu-2024",
+    "title": "Nosferatu",
+    "year": 2024,
+    "synopsis": "Dans l'Allemagne de 1838, Thomas Hutter, agent immobilier, est envoyé en Transylvanie pour rencontrer le mystérieux comte Orlok, intéressé par l'achat d'une propriété à Wisborg. Laissant derrière lui sa jeune épouse, Ellen, sujette à des visions inquiétantes, Thomas découvre rapidement la véritable nature du comte : un vampire terrifiant. Pendant ce temps, à Wisborg, Ellen est de plus en plus tourmentée par des cauchemars prémonitoires liés à Orlok. Lorsque le comte s'installe dans sa nouvelle demeure, une série d'événements horrifiques se déclenche, plongeant la ville dans la terreur et la désolation.",
+    "tags": [
+      "vampire",
+      "possession",
+      "modern"
+    ],
+    "tmdbId": 426063,
+    "posterPath": "/A8UIMJTwSaflmWmUlfPOFdenSBT.jpg"
+  },
+  {
+    "id": "soulm8te-2026",
+    "title": "Soulm8te",
+    "year": 2026,
+    "synopsis": "Un homme acquiert un androïde à intelligence artificielle pour faire face à la perte de sa femme. En essayant de créer un partenaire vraiment sensible, il transforme un \"lovebot\" inoffensif en une compagne dangereuse.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1307118,
+    "posterPath": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg"
+  },
+  {
+    "id": "hungry-2026",
+    "title": "Hungry",
+    "year": 2026,
+    "synopsis": "Un groupe de vacanciers se retrouve au milieu des marécages de Louisiane poursuivi par un hippopotame.",
+    "tags": [
+      "creature",
+      "modern"
+    ],
+    "tmdbId": 1382832,
+    "posterPath": "/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg"
+  },
+  {
+    "id": "alien-covenant-2017",
+    "title": "Alien : Covenant",
+    "year": 2017,
+    "synopsis": "Les membres d’équipage du vaisseau Covenant, à destination d’une planète située au fin fond de notre galaxie, découvrent ce qu’ils pensent être un paradis encore intouché. Il s’agit en fait d’un monde sombre et dangereux, cachant une menace terrible. Ils vont tout tenter pour s’échapper.",
+    "tags": [
+      "alien",
+      "space",
+      "creature",
+      "modern"
+    ],
+    "tmdbId": 126889,
+    "posterPath": "/gJL4noFkpXHkNBX2MgzEo6PbYUy.jpg"
+  },
+  {
+    "id": "ca-2017",
+    "title": "Ça",
+    "year": 2017,
+    "synopsis": "À Derry, dans le Maine, aux États-Unis, 7 gamins, ayant du mal à s’intégrer, se sont regroupés au sein du Club des Ratés. Rejetés par leurs camarades, ils sont les cibles favorites des gros durs de l’école. Ils ont aussi en commun d’avoir éprouvé leur plus grande terreur face à un terrible prédateur métamorphe qu’ils appellent Ça…",
+    "tags": [
+      "haunting",
+      "creature",
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 346364,
+    "posterPath": "/3SUz0F0I2Bodcj9Ev2pYSWnE9zp.jpg"
+  },
+  {
+    "id": "sans-un-bruit-2-2021",
+    "title": "Sans un bruit 2",
+    "year": 2021,
+    "synopsis": "Après les événements mortels survenus dans sa maison, la famille Abbot doit faire face au danger du monde extérieur. Pour survivre, ils doivent se battre en silence. Forcés à s’aventurer en terrain inconnu, ils réalisent que les créatures qui attaquent au moindre son ne sont pas la seule menace qui se dresse sur leur chemin…",
+    "tags": [
+      "alien",
+      "creature",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 520763,
+    "posterPath": "/8ZUVoCUk3i2gikavPlneVKYfjqj.jpg"
+  },
+  {
+    "id": "retour-a-silent-hill-2026",
+    "title": "Retour à Silent Hill",
+    "year": 2026,
+    "synopsis": "Lorsqu’il reçoit une mystérieuse lettre de Mary, son amour perdu, James est attiré vers Silent Hill, une ville autrefois familière, aujourd’hui engloutie par les ténèbres.En partant à sa recherche, James affronte des créatures monstrueuses et découvre une vérité terrifiante qui le poussera aux limites de la folie.",
+    "tags": [
+      "monster",
+      "supernatural",
+      "survival",
+      "creature",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 680493,
+    "posterPath": "/A0eYqBMVdcM6RLpDpLZuKMLpdKS.jpg"
+  },
+  {
+    "id": "annihilation-2018",
+    "title": "Annihilation",
+    "year": 2018,
+    "synopsis": "Lena, biologiste et ancienne militaire, participe à une mission destinée à comprendre ce qui est arrivé à son mari dans une zone où un mystérieux et sinistre phénomène se propage le long des côtes américaines. Une fois sur place, les membres de l’expédition découvrent que paysages et créatures ont subi des mutations, et malgré la beauté des lieux, le danger règne et menace leur vie, mais aussi leur intégrité mentale.",
+    "tags": [
+      "body-horror",
+      "cosmic",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 300668,
+    "posterPath": "/wkg01fefEWL7GMec8J7QaaQ6XFK.jpg"
+  },
+  {
+    "id": "companion-2025",
+    "title": "Companion",
+    "year": 2025,
+    "synopsis": "Josh et Iris semblent incarner le couple parfait. Mais lors d’un week-end entre amis qui vire au drame, un secret bien gardé fait tout basculer…",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1084199,
+    "posterPath": "/gLXGCPOSm8qU5awxfDl1ztKoZXY.jpg"
+  },
+  {
+    "id": "godzilla-minus-one-2023",
+    "title": "Godzilla Minus One",
+    "year": 2023,
+    "synopsis": "La guerre est finie, mais le combat est loin d'être terminé pour Shikishima, pilote rongé par la culpabilité. Peut-il se pardonner et aider à sauver le Japon de la furie de Godzilla ?",
+    "tags": [
+      "monster",
+      "modern"
+    ],
+    "tmdbId": 940721,
+    "posterPath": "/tBzOqSc51CiUeOlxW2unvYVBU8v.jpg"
+  },
+  {
+    "id": "undertone-2026",
+    "title": "undertone",
+    "year": 2026,
+    "synopsis": "Animatrice d’un podcast consacré aux phénomènes paranormaux, Evy retourne dans la maison de son enfance pour veiller sa mère mourante. Un jour, elle reçoit d’étranges enregistrements. En les diffusant dans son émission, Evy réalise que les événements décrits semblent déteindre sur la réalité. Les sons deviennent de plus en plus troublants, comme si quelque chose cherchait à lui parler. Et plus elle écoute, plus la menace se rapproche.",
+    "tags": [
+      "supernatural",
+      "haunting",
+      "demon",
+      "found-footage",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 1480387,
+    "posterPath": "/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg"
+  },
+  {
+    "id": "they-will-kill-you-2026",
+    "title": "They Will Kill You",
+    "year": 2026,
+    "synopsis": "Une jeune femme doit survivre toute une nuit, enfermée dans le mystérieux et sordide repaire d'une secte démoniaque, et tout faire pour ne pas devenir leur prochain sacrifice. Une lutte acharnée, des combats saisissants et un humour profondément noir vous attendent.",
+    "tags": [
+      "gore",
+      "cult",
+      "survival",
+      "modern"
+    ],
+    "tmdbId": 1292695,
+    "posterPath": "/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg"
+  },
+  {
+    "id": "wedding-nightmare-2019",
+    "title": "Wedding Nightmare",
+    "year": 2019,
+    "synopsis": "La nuit de noces d’une jeune mariée tourne au cauchemar, quand sa riche et excentrique belle-famille lui demande d’honorer une tradition, qui va se révéler meurtrière, où chacun luttera pour sa survie.",
+    "tags": [
+      "gore",
+      "modern"
+    ],
+    "tmdbId": 567609,
+    "posterPath": "/iI53NwzcNpkImU346bV866G7G46.jpg"
+  },
+  {
+    "id": "the-ugly-stepsister-2025",
+    "title": "The Ugly Stepsister",
+    "year": 2025,
+    "synopsis": "Elvira en a assez de vivre dans l'ombre de sa belle demi-sœur Agnès. Elle est prête à tout pour attirer l'attention du prince Julian, le célibataire le plus convoité du royaume. Au prix de sang, de sueur et de larmes, Elvira ne recule devant rien pour conquérir le cœur du prince.",
+    "tags": [
+      "satire",
+      "body-horror",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 1284120,
+    "posterPath": "/8THhOd1QneAxP9wOICvWT324aZj.jpg"
+  },
+  {
+    "id": "scream-1996",
+    "title": "Scream",
+    "year": 1996,
+    "synopsis": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne. Au bout du fil, un serial killer la malmène, et la force à jouer à un jeu terrible : si elle répond mal à ses questions portant sur les films d'horreur, celui-ci tuera son copain… Sidney Prescott sait qu'elle est l'une des victimes potentielles du tueur de Woodsboro. Celle-ci ne sait plus à qui faire confiance. Entre Billy, son petit ami, sa meilleure amie Tatum et son frère Dewey, ses copains de classe Stuart et Randy, la journaliste arriviste Gale Weathers et son caméraman Kenny qui traînent tout le temps dans les parages et son père toujours absent, qui se cache derrière le masque du tueur ?",
+    "tags": [
+      "slasher",
+      "classic"
+    ],
+    "tmdbId": 4232,
+    "posterPath": "/9LfX3IBeByGdFkmkmNztKBr4nYv.jpg"
+  },
+  {
+    "id": "ca-chapitre-2-2019",
+    "title": "Ça : Chapitre 2",
+    "year": 2019,
+    "synopsis": "Tous les 27 ans, une créature maléfique revient hanter les rues de Derry, dans le Maine, aux États-Unis. Près de trente ans après les événements du premier opus, les membres du Club des Ratés, désormais adultes, se retrouvent.",
+    "tags": [
+      "haunting",
+      "creature",
+      "modern"
+    ],
+    "tmdbId": 474350,
+    "posterPath": "/pWiALkHml93SWMdq2NSBFkfWOkJ.jpg"
+  },
+  {
+    "id": "marche-ou-creve-2025",
+    "title": "Marche ou crève",
+    "year": 2025,
+    "synopsis": "Dans une Amérique totalitaire instaurée après une longue guerre fratricide, 50 jeunes hommes participent à une marche d'endurance de plus de 500 kilomètres, filmée et diffusée en direct. Les marcheurs ont l'obligation de conserver un rythme constant, avec interdiction formelle de s'arrêter. Après trois avertissements consécutifs, les contrevenants sont froidement abattus. Un seul en sortira vivant, avec une somme faramineuse et un prix de son choix. Habité par un motif secret, le jeune Raymond Garraty tente sa chance, nouant sur la route un fort lien d'amitié avec l'Afro-Américain Peter McVries.",
+    "tags": [
+      "survival",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 604079,
+    "posterPath": "/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg"
+  },
+  {
+    "id": "anaconda-2025",
+    "title": "Anaconda",
+    "year": 2025,
+    "synopsis": "Doug et Griff sont amis d'enfance et partagent depuis toujours un objectif un peu fou : réaliser leur propre remake d’Anaconda en plein cœur de l'Amazonie. Mais le rêve vire rapidement au cauchemar lorsqu'un véritable serpent géant fait son apparition et transforme leur plateau déjà chaotique en un piège mortel. Le film qu'ils mourraient d'envie de faire… va vraiment devenir mortel !",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1234731,
+    "posterPath": "/5EbKjIowNw5yExzrhvu231GFVCf.jpg"
+  },
+  {
+    "id": "event-horizon-le-vaisseau-de-lau-dela-1997",
+    "title": "Event Horizon : Le vaisseau de l'au-delà",
+    "year": 1997,
+    "synopsis": "2047 : Le vaisseau spatial \"Lewis & Clark\" s’apprête à regagner sa base quand l'équipage reçoit l'ordre de gagner la station Daylight pour embarquer le physicien William Weir, avec lequel il doit repartir en direction de Neptune. Quelques années plus tôt, Weir avait conçu un engin spatial révolutionnaire capable de se déplacer plus vite que la lumière mais qui disparut corps et biens aux abords de Neptune. La mission du \"Lewis & Clark\" consiste à repérer l’épave de l'\"Event Horizon\", à déceler les causes de sa mystérieuse avarie et à récupérer les éventuels survivants.",
+    "tags": [
+      "gore",
+      "cosmic",
+      "classic"
+    ],
+    "tmdbId": 8413,
+    "posterPath": "/jExUdYH7nqREZ1wEz6KMRlP4X7j.jpg"
+  },
+  {
+    "id": "en-eaux-tres-troubles-2023",
+    "title": "En eaux très troubles",
+    "year": 2023,
+    "synopsis": "Une équipe de chercheurs part explorer les profondeurs de l'océan. Leur périple tourne à la catastrophe lorsqu'une opération d'extraction minière illégale met en péril leur mission – et leur vie. Confrontés à d'immenses mégalodons et à des bandits sans pitié, nos héros doivent échapper aux terribles prédateurs en gardant toujours un temps d'avance sur eux dans une terrifiante course contre-la-montre.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 615656,
+    "posterPath": "/tPnya8bGupPR7dYxlh5w4z3P6pW.jpg"
+  },
+  {
+    "id": "subservience-2024",
+    "title": "Subservience",
+    "year": 2024,
+    "synopsis": "Un père à bout de souffle se procure un robot humanoïde domestique pour l'aider à s'occuper de sa maison et de sa famille, ignorant qu’elle évoluera jusqu’à développer sa propre conscience et devenir mortelle.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1064028,
+    "posterPath": "/2HCqYxwko2CSgT5hYdppZrG96X.jpg"
+  },
+  {
+    "id": "la-nonne-2018",
+    "title": "La Nonne",
+    "year": 2018,
+    "synopsis": "Quand on apprend le suicide d'une jeune nonne dans une abbaye roumaine, la stupéfaction est totale dans l'Église catholique. Le Vatican missionne aussitôt un prêtre au passé trouble et une novice pour mener l'enquête. Risquant leur vie, les deux ecclésiastiques doivent affronter une force maléfique – la nonne démoniaque de « Conjuring 2 » – qui bouscule leur foi et menace de détruire leur âme.",
+    "tags": [
+      "supernatural",
+      "possession",
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 439079,
+    "posterPath": "/e0XDl1xHWvtwmIQXVadQpiB7YN0.jpg"
+  },
+  {
+    "id": "le-menu-2022",
+    "title": "Le Menu",
+    "year": 2022,
+    "synopsis": "Sur une île isolée, un jeune couple pénètre dans un restaurant gastronomique ayant une très bonne réputation. Le chef se lance alors dans un menu somptueux assorti à quelques surprises stupéfiantes.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 593643,
+    "posterPath": "/z9KjjwNcY6WhhA2HGCOzNOa0Lg6.jpg"
+  },
+  {
+    "id": "smile-2-2024",
+    "title": "Smile 2",
+    "year": 2024,
+    "synopsis": "Sur le point d’entamer une nouvelle tournée mondiale, la star planétaire de la pop, Skye Riley, commence à vivre des événements de plus en plus terrifiants et inexplicables. Dépassée par l’horreur croissante et la pression de la célébrité, Skye doit affronter son sombre passé pour reprendre le contrôle sur sa vie avant qu’elle n’en perde le contrôle.",
+    "tags": [
+      "possession",
+      "gore",
+      "demon",
+      "body-horror",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 1100782,
+    "posterPath": "/bZQweCDilXNvF8KuaEHcghM3Nwf.jpg"
+  },
+  {
+    "id": "triangle-2009",
+    "title": "Triangle",
+    "year": 2009,
+    "synopsis": "Perdus dans le Triangle des Bermudes, les passagers d'un bateau chavirent et rejoignent un mystérieux navire abandonné. À bord, ils devront combattre leur côté sombre.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 26466,
+    "posterPath": "/orJXc0yAZ8PMvlwVorBq2Syj9bD.jpg"
+  },
+  {
+    "id": "evil-dead-1982",
+    "title": "Evil Dead",
+    "year": 1982,
+    "synopsis": "Cinq jeunes vacanciers s’installent dans une baraque au cœur d’une sinistre forêt. En descendant dans une cave lugubre, les deux garçons de la bande découvrent un vieux magnétophone qui une fois remis en marche, émet une incantation magique. Laquelle réveille les forces du mal, déclenchant ainsi une horreur sans nom…",
+    "tags": [
+      "zombie",
+      "cosmic",
+      "classic"
+    ],
+    "tmdbId": 764,
+    "posterPath": "/4t8RzPZTo9QXeqenYL0JsLrz7aR.jpg"
+  },
+  {
+    "id": "primate-2026",
+    "title": "Primate",
+    "year": 2026,
+    "synopsis": "Au lieu de rimer avec plages et retrouvailles, le retour de Lucy sur son île tropicale natale tourne au cauchemar lorsque le chimpanzé de la famille, d’une intelligence exceptionnelle, sombre dans une frénésie enragée. La nuit se mue alors en un chaos terrifiant. En l’absence de son père et sans aucun secours possible, ce paradis devient une prison et Lucy et ses amis doivent affronter un prédateur mortel en qui ils avaient autrefois toute confiance.",
+    "tags": [
+      "gore",
+      "survival",
+      "modern"
+    ],
+    "tmdbId": 1315303,
+    "posterPath": "/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg"
+  },
+  {
+    "id": "five-nights-at-freddys-2023",
+    "title": "Five Nights at Freddy's",
+    "year": 2023,
+    "synopsis": "Mike, jeune homme perturbé, est toujours hanté par la disparition, de son frère dix ans auparavant. Afin de ne pas perdre la garde de sa sœur Abby, il accepte un poste de gardien de nuit dans un restaurant désaffecté, Freddy Fazbear’s Pizzeria. Mais il ne tarde pas à être confronté, la nuit, à des phénomènes surnaturels inexplicables, et bascule dans un univers cauchemardesque…",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 507089,
+    "posterPath": "/tEY81I7lpiHaLJa7AZ3O4vWXmJo.jpg"
+  },
+  {
+    "id": "28-semaines-plus-tard-2007",
+    "title": "28 Semaines plus tard",
+    "year": 2007,
+    "synopsis": "Il y a 6 mois, un virus a décimé l'Angleterre, transformant la population en monstres sanguinaires. Aujourd'hui, la situation est maîtrisée et Londres contrôlée par l'armée de l'OTAN sous commandement américain, et les rares survivants reviennent dans les quartiers sécurisés de la ville. Don a échappé de justesse a une attaque de zombies en s'enfuyant sous les yeux de sa femme, qui elle, n'a pas eu sa chance. Il retrouve ses enfants à Londres. Alors qu'ils tentent de se reconstruire, quelque part, un effroyable secret les attend. Tout n'est pas terminé…",
+    "tags": [
+      "supernatural",
+      "survival",
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 1562,
+    "posterPath": "/gh7McOrkelpNmXV9HY8elGt73aQ.jpg"
+  },
+  {
+    "id": "dead-silence-2007",
+    "title": "Dead Silence",
+    "year": 2007,
+    "synopsis": "Un homme revient dans sa ville natale pour enquêter sur la mort mystérieuse de sa femme. Au fur et à mesure de ses recherches, il apprend que ce meutre pourrait avoir été commis par le fantôme d'une ventriloque continuant à vivre à travers ses marionnettes...",
+    "tags": [
+      "supernatural",
+      "modern"
+    ],
+    "tmdbId": 14001,
+    "posterPath": "/sXr3Eihgmm8eooEUceXXcFF6ZEZ.jpg"
+  },
+  {
+    "id": "the-mist-2007",
+    "title": "The Mist",
+    "year": 2007,
+    "synopsis": "Tandis qu'une brume étrange semble envelopper une petite ville du Maine, David Drayton et son jeune fils Billy se retrouvent pris au piège dans un supermarché, en compagnie d'autres habitants terrorisés. David ne tarde pas à s'apercevoir que le brouillard est peuplé d'inquiétantes créatures... Leur seule chance à tous de s'en sortir consiste à s'unir. Mais est-ce possible quand on connaît la nature humaine ? Alors que certains cèdent à la panique, David se demande ce qui est le plus effrayant : les monstres qui rôdent dans la brume ou ses semblables réfugiés dans le supermarché ?",
+    "tags": [
+      "monster",
+      "survival",
+      "cosmic",
+      "modern"
+    ],
+    "tmdbId": 5876,
+    "posterPath": "/dW7yzvfGFHCWlOGJUclrs9fGNV4.jpg"
+  },
+  {
+    "id": "entretien-avec-un-vampire-1994",
+    "title": "Entretien avec un vampire",
+    "year": 1994,
+    "synopsis": "San Francisco dans les années 90. Un jeune journaliste, Malloy, s'entretient dans une chambre avec un homme élégant, à l'allure aristocratique et au visage blafard, Louis, qui lui fait de bien étranges confidences. Malloy, subjugué par la séduction de son interlocuteur lui demande, à l'aube, de le faire pénétrer dans son monde, celui des vampires.",
+    "tags": [
+      "vampire",
+      "classic"
+    ],
+    "tmdbId": 628,
+    "posterPath": "/efQVbPAfIchr87GCHsmdZaJ3cGM.jpg"
+  },
+  {
+    "id": "jeu-denfant-1988",
+    "title": "Jeu d'enfant",
+    "year": 1988,
+    "synopsis": "Pour ses six ans, Andy Barclay est comblé, sa mère lui fait cadeau d'une poupee parlante, joufflue à souhait nommée Chucky. Andy est fou de sa poupée et lui seul connait son secret. Chucky sait faire bien des choses, elle est même capable de tuer...",
+    "tags": [
+      "slasher",
+      "classic"
+    ],
+    "tmdbId": 10585,
+    "posterPath": "/fOuPJ5J1Xl7CdzRSvlLKn7SYlb5.jpg"
+  },
+  {
+    "id": "prometheus-2012",
+    "title": "Prometheus",
+    "year": 2012,
+    "synopsis": "Lorsque Elisabeth Shaw découvre un mystérieux lien entre plusieurs artefacts au cours de ses recherches, elle est persuadée qu'il s'agit d'un indice remettant en cause l'origine de l'humanité sur Terre. Une équipe de scientifiques supervisée par Meredith Vickers et l'androïde David se lance alors dans un voyage spatial fascinant aux confins de l'univers, vers un monde inconnu. Là-bas, un affrontement terrifiant qui décidera de l'avenir de l'humanité les attend…",
+    "tags": [
+      "alien",
+      "space",
+      "creature",
+      "cosmic",
+      "modern"
+    ],
+    "tmdbId": 70981,
+    "posterPath": "/p3B5dRNXnpBNGR16r0zdLiMuvMb.jpg"
+  },
+  {
+    "id": "le-sifflet-2026",
+    "title": "Le Sifflet",
+    "year": 2026,
+    "synopsis": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
+    "tags": [
+      "modern",
+      "supernatural"
+    ],
+    "tmdbId": 1193501,
+    "posterPath": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg"
+  },
+  {
+    "id": "the-witch-2016",
+    "title": "The Witch",
+    "year": 2016,
+    "synopsis": "1630, en Nouvelle-Angleterre. William et Katherine, un couple dévot, s’établit à la limite de la civilisation, menant une vie pieuse avec leurs cinq enfants et cultivant leur lopin de terre au milieu d’une étendue encore sauvage. La mystérieuse disparition de leur nouveau-né et la perte soudaine de leurs récoltes vont rapidement les amener à se dresser les uns contre les autres…",
+    "tags": [
+      "witch",
+      "isolated",
+      "possession",
+      "folk",
+      "modern"
+    ],
+    "tmdbId": 310131,
+    "posterPath": "/cO6EPLw3YfC700TS4JfUaRTGXaZ.jpg"
+  },
+  {
+    "id": "x-2022",
+    "title": "X",
+    "year": 2022,
+    "synopsis": "Fin des années 70, une équipe de tournage investit une maison isolée du fin fond du Texas pour y réaliser un film X. À la tombée de la nuit, les propriétaires des lieux surprennent les cinéastes amateurs en plein acte. Le tournage vire brutalement au cauchemar.",
+    "tags": [
+      "slasher",
+      "modern"
+    ],
+    "tmdbId": 760104,
+    "posterPath": "/ep2C0shFTkxPUGLBvsgODWycwU7.jpg"
+  },
+  {
+    "id": "blade-1998",
+    "title": "Blade",
+    "year": 1998,
+    "synopsis": "Mi-homme mi-vampire, possédant toutes les qualités des goules et aucune de leur faiblesse, capable de vivre en plein jour, Blade traque sans pitié les suceurs de sang. Aidé de Whistler, son mentor et armurier, il est le cauchemar de la Nation Secrète des Vampires, dont les membres infiltrent toutes les couches de la société. L'un d'eux, Deacon Frost, avide de pouvoir, souhaite asservir le monde et la race humaine en invoquant le Dieu du sang. Un seul homme peut se mettre en travers de son chemin : Blade...",
+    "tags": [
+      "vampire",
+      "supernatural",
+      "classic"
+    ],
+    "tmdbId": 36647,
+    "posterPath": "/1E1y8stLqgLEdvT3bEQscL1kiFf.jpg"
+  },
+  {
+    "id": "van-helsing-2004",
+    "title": "Van Helsing",
+    "year": 2004,
+    "synopsis": "Au cœur des Carpates, il est un monde de légendes et de mystères : la Transylvanie... Une terre où le mal règne en maître absolu, où le danger rôde dès le coucher du soleil, où prennent corps les monstres qui hantent nos cauchemars les plus secrets. Van Helsing est un ténébreux professeur et chasseur de monstres. Sa mission l'amène à affronter de terribles êtres, parmi lesquels le loup-garou, la créature de Frankenstein ou encore le comte Dracula, qui, depuis des générations, persécute la famille de l'intrépide et aristocratique Anna Valerious.",
+    "tags": [
+      "vampire",
+      "modern"
+    ],
+    "tmdbId": 7131,
+    "posterPath": "/hnZwzv8yCU27nNnMnquyo9n9cR3.jpg"
+  },
+  {
+    "id": "exit-8-2025",
+    "title": "Exit 8",
+    "year": 2025,
+    "synopsis": "Un homme piégé dans un couloir de métro cherche la sortie numéro 8. Pour la trouver, il faut traquer les anomalies. S’il en voit une, il fait demi-tour. S’il n’en voit aucune, il continue. Mais s’il se trompe, il est renvoyé à son point de départ. Parviendra-t-il à sortir de ce couloir sans fin ?",
+    "tags": [
+      "found-footage",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 1408208,
+    "posterPath": "/hJ9qCQ3Dx9vwet09Lbqs8eZTd8e.jpg"
+  },
+  {
+    "id": "split-2017",
+    "title": "Split",
+    "year": 2017,
+    "synopsis": "Les fractures mentales des personnes présentant un trouble dissociatif de la personnalité ont longtemps fasciné et échappé à la science, il se dit que certains peuvent également manifester des attributs physiques uniques pour chaque personnalité ; un prisme cognitif et physiologique dans un seul être. Kevin a manifesté 23 personnalités devant son psychiatre de longue date, le Dr Fletcher mais il en reste une, immergée, qui commence à se matérialiser et à dominer toutes les autres. Contraint d'enlever trois adolescentes, dont la volontaire Casey, Kevin se bat pour survivre parmi tous ceux qui évoluent en lui-même – et autour de lui- tandis que les murs entre ses personnalités volent en éclats.",
+    "tags": [
+      "gore",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 381288,
+    "posterPath": "/jkT4ML7hV0ghOumyPmxJ3b3GCuw.jpg"
+  },
+  {
+    "id": "sinister-2012",
+    "title": "Sinister",
+    "year": 2012,
+    "synopsis": "Ellison est un auteur de romans policiers inspirés de faits réels. Dans l’espoir d’écrire un nouveau livre à succès, il emménage avec sa famille dans une maison où les anciens propriétaires ont été retrouvés inexplicablement pendus. Ellison y découvre dans le grenier des bobines 8mm contenant les images de meurtres d’autres familles. Qui a filmé ces tueries et pour quelle raison ? Ellison va tenter de répondre à ces questions tandis que le tueur présumé, une entité surnaturelle présente sur les films, menace de plus en plus sa famille.",
+    "tags": [
+      "found-footage",
+      "modern"
+    ],
+    "tmdbId": 82507,
+    "posterPath": "/qKXxPnsnVbtxFSwhxvKGZTUd5mm.jpg"
+  },
+  {
+    "id": "la-nonne-la-malediction-de-sainte-lucie-2023",
+    "title": "La Nonne : La Malédiction de Sainte-Lucie",
+    "year": 2023,
+    "synopsis": "En France, en 1956, un prêtre est assassiné dans un internat. Après la mort du prêtre, il se passe des choses qui ne peuvent plus être expliquées rationnellement. Sœur Irène est une nouvelle fois confrontée à un pouvoir démoniaque. Elle se rend vite compte que c'est le démon Valak qui est de retour et qui se prépare à ses méfaits meurtriers.",
+    "tags": [
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 968051,
+    "posterPath": "/yOrY0pByezFe8Eo3AcxW5zCBj5w.jpg"
+  },
+  {
+    "id": "la-main-2023",
+    "title": "La Main",
+    "year": 2023,
+    "synopsis": "Lorsqu'un groupe d'amis découvre comment conjurer les esprits à l'aide d'une mystérieuse main hantée, ils deviennent accros à ce nouveau frisson, et l’expérience fait le tour des réseaux sociaux. Une seule règle à respecter : ils ne doivent pas tenir la main plus de 90 secondes. Lorsque l’un d’entre eux l’enfreint, ils vont être rattrapés par les esprits, les obligeant à choisir : à qui se fier, aux morts ou aux vivants ?",
+    "tags": [
+      "possession",
+      "found-footage",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 1008042,
+    "posterPath": "/yoZmZOIk35ZuH0WJoakB81ypHUH.jpg"
+  },
+  {
+    "id": "the-monkey-2025",
+    "title": "The Monkey",
+    "year": 2025,
+    "synopsis": "Lorsque les jumeaux Bill et Hal trouvent le vieux jouet de singe de leur père, une série de morts effroyables commence. Les deux frères décident de jeter le jouet et de poursuivre leur vie, tout en s'éloignant l'un de l'autre.",
+    "tags": [
+      "supernatural",
+      "gore",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 1124620,
+    "posterPath": "/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg"
+  },
+  {
+    "id": "gremlins-1984",
+    "title": "Gremlins",
+    "year": 1984,
+    "synopsis": "Rand Peltzer offre à son fils Billy un étrange animal : un mogwai. Son ancien propriétaire l'a bien mis en garde : il ne faut pas l'exposer à la lumière , lui éviter tout contact avec l'eau , et surtout, surtout, ne jamais le nourrir après minuit… Sinon…",
+    "tags": [
+      "monster",
+      "classic"
+    ],
+    "tmdbId": 927,
+    "posterPath": "/5DmmWDmfEeqeXREEfV0M5AMzfNK.jpg"
+  },
+  {
+    "id": "bienvenue-a-zombieland-2009",
+    "title": "Bienvenue à Zombieland",
+    "year": 2009,
+    "synopsis": "Dans un monde infesté de zombies, deux hommes tentent de survivre. Columbus, le plus jeune, est terrorisé à l'idée d'être dévoré. C'est une poule mouillée, mais sa prudence pourrait bien lui sauver la vie… Tallahassee, lui, est un chasseur de zombies qui ne craint plus rien ni personne. Armé d'un fusil d'assaut, il se donne corps et âme à la seule mission qui compte pour lui : trouver les derniers exemplaires de ses biscuits préférés, des Twinkies, encore disponibles sur Terre. Dans leur périple, les deux survivants sont rejoints par Wichita et Little Rock, deux jeunes filles. Tous ont désormais deux défis impossibles à relever : affronter les zombies et apprendre à s'entendre…",
+    "tags": [
+      "gore",
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 19908,
+    "posterPath": "/4PztLhccCdfKDnlf3BQ83NnSzJA.jpg"
+  },
+  {
+    "id": "the-strangers-2016",
+    "title": "The Strangers",
+    "year": 2016,
+    "synopsis": "La vie d’un village coréen est bouleversée par une série de meurtres, aussi sauvages qu’inexpliqués, qui frappe au hasard la petite communauté rurale.  La présence, récente, d’un vieil étranger qui vit en ermite dans les bois attise rumeurs et superstitions.  Face à l’incompétence de la police pour trouver l’assassin ou une explication sensée, certains villageois demandent l’aide d’un chaman.  Pour Jong-gu aussi , un policier dont la famille est directement menacée, il est de plus en plus évident que ces crimes ont un fondement surnaturel…",
+    "tags": [
+      "possession",
+      "zombie",
+      "demon",
+      "ghost",
+      "folk",
+      "modern"
+    ],
+    "tmdbId": 293670,
+    "posterPath": "/qmWlSdvzGp4tyJpI76JrEEmU0F2.jpg"
+  },
+  {
+    "id": "shaun-of-the-dead-2004",
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "synopsis": "À presque 30 ans, Shaun ne fait pas grand-chose de sa vie. Entre l'appart qu'il partage avec ses potes et le temps qu'il passe avec eux au pub, Liz, sa petite amie, n'a pas beaucoup de place. Elle qui voudrait que Shaun s'engage, ne supporte plus de le voir traîner. Excédée par ses vaines promesses et son incapacité à se consacrer un peu à leur couple, Liz décide de rompre. Shaun est décidé à tout réparer, et tant pis si les zombies déferlent sur Londres, tant pis si la ville devient un véritable enfer. Retranché dans son pub préféré, le temps est venu pour lui de montrer enfin de quoi il est capable…",
+    "tags": [
+      "satire",
+      "survival",
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 747,
+    "posterPath": "/vAEV1zwDC2WoNmNloCXTk8jPqD.jpg"
+  },
+  {
+    "id": "iron-lung-2026",
+    "title": "Iron Lung",
+    "year": 2026,
+    "synopsis": "Les étoiles ne sont plus. Les planètes ont disparu. Seuls quelques individus subsistent, à bord de stations spatiales ou de vaisseaux errants. Ils ont survécu pour assister à la fin — et lui donner un nom : « Le Rapt silencieux ». Après des années de déclin et d’infrastructures en perdition, l’Iron Consolidation fait une découverte sur une lune désolée, AT-5. Un océan de sang. L’Iron Consolidation lance immédiatement une expédition, avec l’espoir d’y trouver des ressources cruciales. Un sous-marin est construit, et un condamné y est enfermé. En raison de la pression et de la profondeur de l’océan, l’hublot frontal du sous-marin est masqué par un bouclier de métal. S’il s’en sort, il gagnera sa liberté. Sinon, un autre suivra.",
+    "tags": [
+      "gore",
+      "space",
+      "slow-burn",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 1116201,
+    "posterPath": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+  },
+  {
+    "id": "evil-dead-2013",
+    "title": "Evil Dead",
+    "year": 2013,
+    "synopsis": "Mia a déjà connu pas mal de galères dans sa vie, et elle est décidée à en finir une bonne fois pour toutes avec ses addictions. Pour réussir à se sevrer de tout, elle demande à son frère David, sa petite amie Natalie et deux amis d’enfance, Olivia et Eric, de l’accompagner dans la cabane familiale perdue au fond des bois. Dans la cabane isolée, les jeunes gens découvrent un étrange autel, et surtout un livre très ancien, dont Eric commet l’erreur de lire un passage à haute voix. Les plus épouvantables des forces vont se déchaîner sur eux…",
+    "tags": [
+      "demon",
+      "cosmic",
+      "modern"
+    ],
+    "tmdbId": 109428,
+    "posterPath": "/bntAvXObNU0cmLLWwHB61DtQZWk.jpg"
+  },
+  {
+    "id": "silent-hill-2006",
+    "title": "Silent Hill",
+    "year": 2006,
+    "synopsis": "De plus en plus souvent, la petite Sharon rêve d'une ville abandonnée, Silent Hill. Sa mère, Rose, décidée à comprendre l'étrange mal dont souffre son enfant, décide de l'accompagner sur place. Alors qu'elles pénètrent dans cet univers lugubre, Sharon disparaît. Rose se lance à sa poursuite, mais se rend vite compte que ce lieu étrange ne ressemble à rien de normal. Noyée dans le brouillard, peuplée d'étranges créatures, hantée par des ténèbres vivantes qui dévorent littéralement tout ce qu'elles touchent, cette dimension va peu à peu livrer ses terrifiants secrets… Avec l'aide de Cybil, de la police locale, Rose se jette dans une quête éperdue pour arracher sa fille au monde de Silent Hill. D'indices en épreuves, elle va découvrir tout ce que Sharon risque et ce qu'elle représente dans une malédiction qui dépasse tout…",
+    "tags": [
+      "monster",
+      "supernatural",
+      "possession",
+      "gore",
+      "survival",
+      "creature",
+      "demon",
+      "modern"
+    ],
+    "tmdbId": 588,
+    "posterPath": "/2I6UnjiJqmrYOzpsjIMjINcRSKF.jpg"
+  },
+  {
+    "id": "scream-2-1997",
+    "title": "Scream 2",
+    "year": 1997,
+    "synopsis": "Phil Stevens et sa copine Maureen Evans sortent ensemble voir en avant-première le film « Stab », inspirée de la tuerie de la ville de Woodsboro l'année précédente. Le public porte d'ailleurs en grande partie le costume du tueur. Mais parmi les fans déchaînés se cachent un nouvel assassin, qui poignarde devant toute l'audience la pauvre Maureen… Sidney Prescott, une des réelles survivantes du premier massacre, s'est inscrit à la fac de Windsor où elle apprend l'art dramatique, avec son ami Randy. Mais avec ce nouveau fait divers, la jeune femme prend peur et ne peut à nouveau plus faire confiance en personne. Surtout qu'un meurtre intervient dans l'enceinte même du campus : la jeune Casey Cooper a été défenestré après avoir subi deux coups de couteau. Pour Sidney, ça ne fait aucun doute : le cauchemar recommence. Mais qui peut donc s'acharner à vouloir sa mort ? Et pourquoi ?",
+    "tags": [
+      "mask",
+      "slasher",
+      "classic"
+    ],
+    "tmdbId": 4233,
+    "posterPath": "/tQjkmhosfaZRllklX7P92xBO62o.jpg"
+  },
+  {
+    "id": "terrifier-3-2024",
+    "title": "Terrifier 3",
+    "year": 2024,
+    "synopsis": "Après avoir survécu au massacre d'Halloween perpétré par Art Le Clown, Sienna et son frère tentent de reconstruire leur vie. Alors que les fêtes de fin d'année approchent, ils s'efforcent de laisser derrière eux les horreurs passées. Cependant, au moment où ils se croyaient enfin à l'abri, Art refait surface, bien décidé à transformer Noël en un véritable cauchemar.",
+    "tags": [
+      "monster",
+      "gore",
+      "slasher",
+      "modern"
+    ],
+    "tmdbId": 1034541,
+    "posterPath": "/mbJE5YX3n5WR1TZkXqc3R9fcPmI.jpg"
+  },
+  {
+    "id": "barbare-2022",
+    "title": "Barbare",
+    "year": 2022,
+    "synopsis": "Une jeune femme se rend à Détroit pour un entretien d'embauche, loue une maison, le temps de son séjour. Mais lorsqu'elle arrive tard dans la nuit, elle découvre que la demeure est occupée par deux personnes et qu'un homme étrange y réside déjà... N'ayant pas d'autre choix, elle décide de passer la nuit sur place, à ses risques et périls.",
+    "tags": [
+      "monster",
+      "paranoid",
+      "slasher",
+      "modern"
+    ],
+    "tmdbId": 913290,
+    "posterPath": "/rJS3o7TgR0pvdtD045kQJQpHXMd.jpg"
+  },
+  {
+    "id": "old-2021",
+    "title": "Old",
+    "year": 2021,
+    "synopsis": "En vacances dans les tropiques, une famille s’arrête pour quelques heures sur un atoll isolé où ils découvrent avec effroi que leur vieillissement y est drastiquement accéléré et que leur vie entière va se retrouver réduite à cette ultime journée.",
+    "tags": [
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 631843,
+    "posterPath": "/4rBo0CWRJyQyCSiLsF3pGaGiuQn.jpg"
+  },
+  {
+    "id": "smile-2022",
+    "title": "Smile",
+    "year": 2022,
+    "synopsis": "Après avoir assisté à un incident traumatisant impliquant un patient, le Dr Rose Cotter se met à vivre des événements effrayants qu'elle ne peut expliquer. Alors qu'une terreur écrasante s'empare de sa vie, Rose doit affronter son passé afin de survivre et d'échapper à sa nouvelle réalité terrifiante.",
+    "tags": [
+      "paranoid",
+      "demon",
+      "body-horror",
+      "psychologique",
+      "modern"
+    ],
+    "tmdbId": 882598,
+    "posterPath": "/3kbtoJw6ZN0UUQhSuiRbAatr2kV.jpg"
+  },
+  {
+    "id": "substitution-bring-her-back-2025",
+    "title": "Substitution : Bring Her Back",
+    "year": 2025,
+    "synopsis": "À la mort accidentelle de son père, Andy réclame la garde de Piper, sa demi-sœur malvoyante, mais il lui manque trois mois pour atteindre les 18 ans réglementaires. En attendant, les services sociaux placent Piper chez Laura, une conseillère habituée de ce genre de cas. Mais le protecteur Andy refuse de se séparer de sa demi-sœur et s'impose chez Laura, qui habite une grande maison à la campagne. Très vite, l'adolescent remarque le comportement étrange et intrusif de leur hôtesse, qui héberge déjà Oliver, un petit garçon muet et plutôt inquiétant. Il apparait que la conseillère faussement affable poursuit un rêve : éveiller l'esprit de sa propre fille morte noyée.",
+    "tags": [
+      "supernatural",
+      "folk",
+      "body-horror",
+      "modern"
+    ],
+    "tmdbId": 1151031,
+    "posterPath": "/AjBNmvAUbl8RMMYmv1dFfP9I1II.jpg"
+  },
+  {
+    "id": "scream-2022",
+    "title": "Scream",
+    "year": 2022,
+    "synopsis": "25 ans après que la paisible ville de Woodsboro a été frappée par une série de meurtres violents, un nouveau tueur revêt le masque de Ghostface et prend pour cible un groupe d’adolescents. Il est déterminé à faire ressurgir les sombres secrets du passé.",
+    "tags": [
+      "mask",
+      "slasher",
+      "modern"
+    ],
+    "tmdbId": 646385,
+    "posterPath": "/aT6z49r0Ewan23H74creoLDLIVL.jpg"
+  },
+  {
+    "id": "primitive-war-2025",
+    "title": "Primitive War",
+    "year": 2025,
+    "synopsis": "En 1968, pendant la guerre du Vietnam, une unité de reconnaissance connue sous le nom de Vulture Squad est envoyée dans une vallée isolée de la jungle pour sauver un peloton de bérets verts disparu. Ils découvrent bientôt que des dinosaures habitent la jungle. Ils sont le résultat d’une expérience soviétique qui a mal tourné.",
+    "tags": [
+      "survival",
+      "modern"
+    ],
+    "tmdbId": 1257009,
+    "posterPath": "/noujgznyJIaurEinZhcSVzTmkLo.jpg"
+  },
+  {
+    "id": "larmee-des-morts-2004",
+    "title": "L'Armée des Morts",
+    "year": 2004,
+    "synopsis": "Personne ne peut expliquer comment tout cela est arrivé, mais ce matin, le monde n'est plus qu'un immense cauchemar. La population de la planète se résume désormais à une horde de morts vivants assoiffés de sang et lancés à la poursuite des derniers êtres humains encore en vie. Après avoir miraculeusement réussi à s'échapper de son quartier, Ana Clark se barricade avec un petit groupe de survivants dans un centre commercial. André et sa femme enceinte, Michael et Kenneth, officiers de police, vont tout faire pour rester vivants. Alors que dehors, la situation est de pire en pire, à l'intérieur, il faut aussi faire face aux peurs et aux démons de chacun.",
+    "tags": [
+      "gore",
+      "survival",
+      "zombie",
+      "modern"
+    ],
+    "tmdbId": 924,
+    "posterPath": "/oatykAWUZ0g2EaiNPjfZTDks8Tj.jpg"
+  },
+  {
+    "id": "scream-4-2011",
+    "title": "Scream 4",
+    "year": 2011,
+    "synopsis": "Dix ans se sont écoulés depuis les terribles meurtres commis par Ghostface. Sydney Prescott est parvenue à tourner la page, mais c’est tout de même avec appréhension qu’elle retourne à Woodsboro pour le lancement de son premier roman. Ses retrouvailles avec sa cousine Jill ainsi qu’avec le duo de choc Dewey et Gale seront de courte durée : Ghostface est de retour mais cette fois-ci, les règles vont changer.",
+    "tags": [
+      "mask",
+      "slasher",
+      "modern"
+    ],
+    "tmdbId": 41446,
+    "posterPath": "/6b7QW0rseIiD6b5hqCFPqE378t.jpg"
+  }
+]
