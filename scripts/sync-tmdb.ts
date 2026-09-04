@@ -8,7 +8,8 @@
  */
 
 import { readFileSync, writeFileSync } from "node:fs";
-import { resolve } from "node:path";
+import { dirname, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 
 type Film = {
   id: string;
@@ -43,7 +44,7 @@ type TmdbKeywordsResponse = {
   keywords: { id: number; name: string }[];
 };
 
-const ROOT = resolve(import.meta.dir, "..");
+const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const FILMS_PATH = resolve(ROOT, "data/films.json");
 const BASE = "https://api.themoviedb.org/3";
 const HORROR_GENRE = 27;
